@@ -1,0 +1,24 @@
+version:0.1
+
+phases:
+  build:
+    commands:
+
+artifacts:
+  files:
+    - index.html
+    - 1.mp4
+    - 1.png
+    - 2.png
+    - 3.png
+    - 4.png
+    - 5.png
+    - 6.png
+    - 7.png
+    - 123.gif
+    - capt.png
+    - gpr.gif
+    - jpg3.png
+    - socc.png
+    - 2.mp4
+    - images/*
