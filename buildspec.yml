@@ -6,7 +6,7 @@ phases:
 
 artifacts:
   files:
-    - index.html
+    - home.html
     - 1.mp4
     - 1.png
     - 2.png
